@@ -1,0 +1,9 @@
+.div{width: 90%;
+    margin: auto;
+    display: flex;
+    gap: 210px;
+}
+.img{
+    width: 150px;
+    height: 70px;
+}

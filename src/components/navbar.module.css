@@ -1,0 +1,9 @@
+.div{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+    background-color: black;
+}
+.text{
+    text-decoration: none;
+}
